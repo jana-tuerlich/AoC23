@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+*/bin/*
+*/obj/*
+*.csproj
+.vs/*
+*/Input.txt
+*/TestInput.txt
+AdventOfCode leer/*
+AdventOfCode.sln
